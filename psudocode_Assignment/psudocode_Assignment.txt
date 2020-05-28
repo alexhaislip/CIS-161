@@ -1,0 +1,23 @@
+//created by Alexander Haislip, May 28th 2020
+Problem: Create a flowchart of the process for the signing up for courses this semester. Input will be the courses and output will be a schedule.
+-------------------------
+Input: READ, OBTAIN, GET 
+Output: PRINT, DISPLAY, SHOW 
+Compute: COMPUTE, CALCULATE, DETERMINE 
+Initialize: SET, INIT 
+Add one: INCREMENT, BUMP
+-------------------------
+
+OBTAIN a class from a user 
+SET class to a varible "class"
+
+OBTAIN class_Time from a user 
+SET class_Time to a varible "class_Time"
+
+OBTAIN a class_Number from a user 
+SET class to a varible "class_Number"
+
+PRINT "Your current class schedule is...\n"
+PRINT Class, class_Time, class_Number
+
+
